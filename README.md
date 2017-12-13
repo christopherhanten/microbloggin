@@ -10,6 +10,13 @@ I am having fun with it. I will be able to change out all the pieces, when the t
 What I need to figure out now is how to move mb posts into a feed. Oh man!-->
 
 How do I get the very top portion of the page colored?
-
 I figured this ^^ out!
+
 Now, how do I get the bullet points from the <ul> go away?
+I figured this ^^ out!
+
+todo:
+stylize button
+figure out how to get new mb posts into the "feed."
+change fonts on everything!
+new backgrond picture
