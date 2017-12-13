@@ -1,3 +1,4 @@
+
 .main {
     background-color: #088e95;
     height: 980px;
@@ -8,10 +9,13 @@
   color:        #ffbdf9;
   font-weight:  bolder;
   text-align:   center;
+  padding: 50px 0 0 0;
 }
 .mbInput {
   text-align: center;
   height: 60px;
+  border: 20px 0 0 0;
+
 }
 .button {
   display: block;
@@ -21,4 +25,11 @@
 }
 .form {
   border: 12px,0;
+}
+.list {
+  margin: auto 0;
+}
+#postings {
+  text-align: center;
+  list-style-position: inherit;
 }
