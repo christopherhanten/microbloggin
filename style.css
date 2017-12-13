@@ -1,0 +1,18 @@
+.main {
+    background-color: #088e95;
+    height: 980px;
+    width:  auto;
+}
+.nameOfPage {
+  font-size:    60px;
+  color:        #ffbdf9;
+  font-weight:  bolder;
+  text-align:   center;
+}
+.mbInput {
+  text-align: center;
+}
+.button {
+  display: block;
+  margin: auto;
+}

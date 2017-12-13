@@ -4,24 +4,28 @@
   <head>
     <meta charset="utf-8">
     <title>microbloggin</title>
-    <link rel="stylesheet" type="text/css" href="/style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
 
   <body>
+    <main class="main">
     <!-- this is where the name of the page is going to be located. -->
     <section class= "nameOfPage">
       <p>Microbloggin!! Big Time!</p>
     </section>
 
     <hr></hr>
+    </br>
     <!-- this is going to be the microbloggin' imput (new MB post) box, with prompt above. I want to put the promt inside the box in the future. -->
     <section class= "mbInput">
       what choo talmbout pahtnah?!?
-      <form class="inputBox" id="box1">
-          <input type="text" name="chooTalmbout?"><br>
-      </form><br/>
-      
-      <button type="submit" form="box1" value="Submit">Submit</button>
+      <form>
+          <input type="text" id="box1" name="chooTalmbout?" style="width: 450px";/>
+      </form>
+      <br/>
+      <!-- here is the buttom to submit the new mb -->
+      <button class="button" type="Submit" form="box1" value="Submit">Submit yo Mental Darts!</button>
+      </section>
 
 
 
@@ -29,8 +33,7 @@
 
 
 
-
-
+    </main>
   <script src="/styles.js"></script>
   </body>
 </html>
