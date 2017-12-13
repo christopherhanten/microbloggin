@@ -11,8 +11,14 @@
 }
 .mbInput {
   text-align: center;
+  height: 60px;
 }
 .button {
   display: block;
   margin: auto;
+  color: red;
+  height: 35px;
+}
+.form {
+  border: 12px,0;
 }
