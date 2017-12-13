@@ -1,6 +1,8 @@
-
+.body {
+  background-image: url("images/space.jpeg");
+  background-position: center;
+}
 .main {
-    background-color: #088e95;
     height: 980px;
     width:  auto;
 }
@@ -15,6 +17,7 @@
   text-align: center;
   height: 60px;
   border: 20px 0 0 0;
+  color: #FFFFFF;
 
 }
 .button {
@@ -25,11 +28,14 @@
 }
 .form {
   border: 12px,0;
+  padding: 15px;
 }
 .list {
   margin: auto 0;
 }
 #postings {
   text-align: center;
-  list-style-position: inherit;
+  list-style-type: none;
+  padding: 25px;
+  color: #FFFFFF;
 }
